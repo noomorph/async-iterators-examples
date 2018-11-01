@@ -1,0 +1,46 @@
+{
+  "name": "async-iterators-kit",
+  "version": "1.0.0",
+  "description": "Wrappers around Node.js ReadableStream, Readline and ChildProcess that implement AsyncIterableIterator interface",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "prepare": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noomorph/node-async-iterators-kit.git"
+  },
+  "keywords": [
+    "for-await-of",
+    "iterable",
+    "iterators",
+    "stream",
+    "readline",
+    "async"
+  ],
+  "author": "Yaroslav Serhieiev <noomorph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noomorph/node-async-iterators-kit/issues"
+  },
+  "homepage": "https://github.com/noomorph/node-async-iterators-kit#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "@types/node": "^10.12.1",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.5"
+  },
+  "dependencies": {
+    "tslib": "^1.9.3"
+  }
+}
