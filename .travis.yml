@@ -3,6 +3,7 @@ node_js:
 - node
 - lts/*
 deploy:
+  skip_cleanup: true
   provider: npm
   email: noomorph@gmail.com
   api_key:

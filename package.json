@@ -1,6 +1,6 @@
 {
   "name": "async-iterators-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrappers around Node.js ReadableStream, Readline and ChildProcess that implement AsyncIterableIterator interface",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
