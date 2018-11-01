@@ -4,6 +4,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/noomorph/node-async-iterators-kit.svg?branch=master)](https://travis-ci.org/noomorph/node-async-iterators-kit)
 
+## Install
+
+```
+npm install async-iterators-kit
+```
+
+## Use
+
 Currently, the package provides a set of async iterators for handling readline, streams, child process stdout and timeouts:
 
 * [ChildProcessStdioAsyncIterator](lib/ChildProcessStdioAsyncIterator.ts)
