@@ -1,5 +1,6 @@
 # node-async-iterators-kit
 
+[![npm version](https://badge.fury.io/js/async-iterators-kit.svg)](https://badge.fury.io/js/async-iterators-kit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/noomorph/node-async-iterators-kit.svg?branch=master)](https://travis-ci.org/noomorph/node-async-iterators-kit)
 
